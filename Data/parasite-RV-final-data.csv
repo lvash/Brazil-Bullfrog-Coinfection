@@ -1,0 +1,100 @@
+#/////////////////////////////////////,,,,,,,,,,,,,,
+# -----START OF METADATA -----,,,,,,,,,,,,,,
+# ------------------------------------------------,,,,,,,,,,,,,,
+# TITLE: Ranavirus and helminth parasite co-infection in invasive American bullfrogs in the Atlantic Forest; Brazil,,,,,,,,,,,,,,
+# DATE: Published 2024; Collection October 2018 - April 2019; Ranavirus qPCR testing August 2019 - March 2020,,,,,,,,,,,,,,
+# AUTHORS: Drs. Lauren V. Ash; Karla Magalhaes Campiao; Caue Pinheiro Teixeira; Nicholas J. Gotelli,,,,,,,,,,,,,,
+# DOI: 10.1016/j.ijppaw.2024.100924,,,,,,,,,,,,,,
+# ------------------------------------------------,,,,,,,,,,,,,,
+# AUTHOR EMAIL: lvash23@gmail.com,,,,,,,,,,,,,,
+# AUTHOR ADDRESS: University of Vermont; 109 Carrigan Dr; Marsh Life Science; Burlington; VT 05405,,,,,,,,,,,,,,
+# AUTHOR WEBSITE: lvash.github.io,,,,,,,,,,,,,,
+# ------------------------------------------------,,,,,,,,,,,,,,
+# OWNERSHIP: Drs. Lauren Ash and Karla Magalhaes Campiao,,,,,,,,,,,,,,
+# COLLABORATORS: Caue Pinheiro Teixeira; Dr. Nicholas J. Gotelli,,,,,,,,,,,,,,
+# FUNDING SOURCES: University of Vermont Fabri Fialho and John Wheeler Awards; Coordination for the Improvement of Higher Education Personnel and the Federal University of Paraná; Council for Scientific and Technological Development,,,,,,,,,,,,,,
+# REPOSITORY: https://github.com/lvash/Brazil-Bullfrog-Coinfection,,,,,,,,,,,,,,
+# CITATIONS: NA,,,,,,,,,,,,,,
+# ------------------------------------------------,,,,,,,,,,,,,,
+# SAMPLING LOCATIONS: We collected; measured; and euthanized 65 specimens of American bullfrogs (Aquarana catesbeiana) sampled from 9 sites across three states of Brazil in the Atlantic Forest biome; Site names are in the column 'Site' with its corresponding 'Town' and Brazilian 'State' columns,,,,,,,,,,,,,,
+# SAMPLING TIMES: Bullfrogs were collected October 2018 - April 2019,,,,,,,,,,,,,,
+# VARIABLE DESCRIPTION: The 'ID'; 'Sex'; 'Length' variables correspond to the sample ID; sex; and snout-vent length of an individual bullfrog,,,,,,,,,,,,,,
+# VARIABLE DESCRIPTION: The 'Ranavirus' columns containes whether the individual bullfrog tested positive (1) or negative (0) for Ranavirus; 'RV_viral-load' is the viral load; or amount of virus; in copies/ng of DNA ,,,,,,,,,,,,,,
+# VARIABLE DESCRIPTION: The 'Acantho' to 'Pentastomida_larva' columns contain counts of helminth parasites identified and assigned to either Acanthocephala; Nematoda; Trematoda; Cestoda; Pentastomida (respectively); 'Total_abund' and 'Total_rich' are the total abundance and richness of helminth parasite taxa in the bullfrog,,,,,,,,,,,,,,
+# MISSING DATA: NA values were given to missing values in the Sex; Length; and RV_viral-load variables,,,,,,,,,,,,,,
+# ------------------------------------------------,,,,,,,,,,,,,,
+# DATA TRACK CHANGES LOG (use this section to record any changes to the data set after it is created),,,,,,,,,,,,,,
+# DATE:              # CHANGES:,,,,,,,,,,,,,,
+# ------------------------------------------------,,,,,,,,,,,,,,
+# ----- END OF METADATA -----,,,,,,,,,,,,,,
+# /////////////////////////////////////,,,,,,,,,,,,,,
+# ,,,,,,,,,,,,,,
+# ,,,,,,,,,,,,,,
+# ----- START OF DATA ----- ,,,,,,,,,,,,,,
+# ,,,,,,,,,,,,,,
+ID,Sex,Length,Site,Town,State,Ranavirus,Acantho,Nema,Trema,Cest,Pentastomida_larva,Total_abund,Total_rich,RV_viral-load
+54,M,14.3,Pesk e Pague Vale das Águas ,Piraquara,PR,0,6,41,0,0,0,47,2,0
+55,F,12.39,Pesk e Pague Vale das Águas ,Piraquara,PR,0,2,3,0,0,0,5,2,0
+56,F,13.99,Chácara Antônio (André) - Açude Everton,São José dos Pinhais,PR,0,10,2,3,0,0,15,3,0
+57,F,17.28,Chácara Antônio (André) - Açude Everton,São José dos Pinhais,PR,0,9,0,11,0,0,20,2,0
+58,F,NA,Chácara Piedade,Piedade,SP,0,0,26,0,0,0,26,1,0
+59,F,13.85,Chácara Piedade,Piedade,SP,0,1,0,0,0,0,1,1,0
+60,F,12.85,Chácara Piedade,Piedade,SP,0,0,1,0,0,0,1,1,0
+61,F,12.56,Chácara Piedade,Piedade,SP,0,0,8,0,0,0,8,1,0
+62,M,16.63,Chácara Piedade,Piedade,SP,0,0,59,0,0,0,59,1,0
+63,F,15.7,Chácara Piedade,Piedade,SP,0,0,8,1,0,0,9,2,0
+64,M,15.29,Chácara Piedade,Piedade,SP,0,0,1,0,0,0,1,1,0
+65,M,15.92,Chácara Piedade,Piedade,SP,0,0,8,0,0,0,8,1,0
+66,M,16.47,Chácara Piedade,Piedade,SP,0,0,26,0,0,0,26,1,0
+67,M,17.5,Chácara Piedade,Piedade,SP,0,0,13,1,0,0,14,2,0
+68,M,19.19,Embú ,Embu das Artes,SP,1,0,27,0,0,0,27,1,1979.396557
+69,M,17.84,Embú ,Embu das Artes,SP,0,0,25,0,0,0,25,1,0
+70,M,18.31,Embú ,Embu das Artes,SP,1,0,18,0,0,0,18,1,1485.819127
+71,M,19.08,Embú ,Embu das Artes,SP,1,0,30,0,0,0,30,1,427.5554967
+72,M,17.7,Embú ,Embu das Artes,SP,0,0,22,0,0,0,22,1,0
+73,M,18.51,Embú ,Embu das Artes,SP,1,0,13,0,0,0,13,1,398.1705616
+74,M,19.22,Embú ,Embu das Artes,SP,1,0,17,0,0,0,17,1,563.6783661
+75,M,18.84,Embú ,Embu das Artes,SP,1,1,24,0,0,0,25,2,NA
+76,M,16.8,Embú ,Embu das Artes,SP,1,0,5,0,0,0,5,1,NA
+77,M,16.84,Embú ,Embu das Artes,SP,1,0,3,0,0,0,3,1,NA
+78,M,19.63,Embú ,Embu das Artes,SP,0,0,667,0,0,0,667,1,0
+79,M,16.1,Embú ,Embu das Artes,SP,1,0,1,0,0,0,1,1,1408.274792
+80,NA,18.6,Embú ,Embu das Artes,SP,1,0,0,0,0,0,0,0,535.9569553
+81,F,5.86,Pesqueiro Água da Serra - Quatro Barras,Quatro Barras,PR,1,0,0,0,0,0,0,0,143358.4014
+82,F,6.51,Pesqueiro Água da Serra - Quatro Barras,Quatro Barras,PR,1,0,0,0,0,0,0,0,1850.054097
+83,M,15.26,Blumenau P2,Blumenau,SC,0,32,4,0,0,0,36,2,0
+84,M,17.17,Blumenau P1,Blumenau,SC,1,15,0,0,0,0,15,1,102630.8765
+85,M,13.91,Blumenau P2,Blumenau,SC,0,6,0,0,0,0,6,1,0
+86,M,12.65,Blumenau P2,Blumenau,SC,0,1,0,0,0,0,1,1,0
+87,M,17.86,Blumenau P2,Blumenau,SC,0,9,131,0,0,0,140,2,0
+88,F,14.35,Blumenau P2,Blumenau,SC,0,24,11,0,0,0,35,2,0
+89,M,15.04,Blumenau P2,Blumenau,SC,0,16,0,0,0,0,16,1,0
+90,F,14.03,Blumenau P2,Blumenau,SC,0,12,0,0,0,0,12,1,0
+91,M,7.76,Blumenau P1,Blumenau,SC,0,0,0,0,0,0,0,0,0
+92,M,19.74,Iporanga,Iporanga,SP,0,44,46,0,0,0,90,2,0
+93,M,18.17,Iporanga,Iporanga,SP,0,0,93,0,0,0,93,1,0
+94,F,17.75,Iporanga,Iporanga,SP,0,0,27,3,0,0,30,2,0
+95,M,16.62,Iporanga,Iporanga,SP,0,0,19,1,0,0,20,2,0
+110,F,16.96,Chapecó Irmão Joelma,Chapecó,SC,1,13,10,0,0,0,23,2,90.51036871
+111,M,13.49,Estacionamento Aeroporto Chapecó,Chapecó,SC,0,0,6,0,0,0,6,1,0
+112,F,12.07,Ponte Serrada,Chapecó,SC,0,0,1,0,0,0,1,1,0
+113,F,18.05,Sítio Alexandre Quatro Barras,Quatro Barras,PR,1,0,3,0,0,1,4,2,5486.319286
+114,M,20.47,Urubici Véu da Noiva,Urubici,SC,0,0,144,0,0,0,144,1,0
+115,M,19.86,Urubici Véu da Noiva,Urubici,SC,0,0,3,0,0,0,3,1,0
+116,F,18.13,Urubici Véu da Noiva,Urubici,SC,0,0,3,3,0,0,6,2,0
+117,M,17.59,Urubici Véu da Noiva,Urubici,SC,0,0,135,0,0,0,135,1,0
+118,M,18.73,Urubici Véu da Noiva,Urubici,SC,0,0,0,0,0,0,0,0,0
+119,M,17.48,Urubici Véu da Noiva,Urubici,SC,0,0,1,0,0,0,1,1,0
+120,F,12.44,Urubici Véu da Noiva,Urubici,SC,0,0,0,0,0,0,0,0,0
+121,F,16.61,Urubici Véu da Noiva,Urubici,SC,0,0,5,0,0,0,5,1,0
+122,M,19.4,Urubici Véu da Noiva,Urubici,SC,0,0,1,0,0,0,1,1,0
+123,M,16.94,Urubici Véu da Noiva,Urubici,SC,0,0,0,0,0,0,0,0,0
+124,M,17.13,Chácara Antônio (André) - Açude Everton,São José dos Pinhais,PR,0,3,133,0,0,1,137,3,0
+125,M,15.06,Chácara Antônio (André) - Açude Everton,São José dos Pinhais,PR,0,2,12,0,30,2,46,4,0
+126,F,17.54,Sítio Alexandre Quatro Barras,Quatro Barras,PR,0,5,3,0,3,0,11,3,0
+127,F,17.46,Sítio Alexandre Quatro Barras,Quatro Barras,PR,1,5,7,0,1,0,13,3,27088.75713
+128,NA,4.75,Sítio Alexandre Quatro Barras,Quatro Barras,PR,0,0,0,0,0,0,0,0,0
+129,NA,5.4,Sítio Alexandre Quatro Barras,Quatro Barras,PR,1,0,0,0,0,0,0,0,224.2664853
+130,M,16.94,Sítio Alexandre Quatro Barras,Quatro Barras,PR,0,2,2,0,3,0,7,3,0
+131,NA,4.86,Sítio Alexandre Quatro Barras,Quatro Barras,PR,0,0,0,0,0,0,0,0,0
+132,NA,4.95,Sítio Alexandre Quatro Barras,Quatro Barras,PR,0,0,0,0,0,0,0,0,0

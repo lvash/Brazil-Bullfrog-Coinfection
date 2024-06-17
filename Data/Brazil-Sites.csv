@@ -1,0 +1,45 @@
+# /////////////////////////////////////,,,,,,,,,,,,,,,
+# -----START OF METADATA -----,,,,,,,,,,,,,,,
+# ------------------------------------------------,,,,,,,,,,,,,,,
+# TITLE: Ranavirus and helminth parasite co-infection in invasive American bullfrogs in the Atlantic Forest; Brazil,,,,,,,,,,,,,,,
+# DATE: Published 2024; Collection October 2018 - April 2019; Ranavirus qPCR testing August 2019 - March 2020,,,,,,,,,,,,,,,
+# AUTHORS: Drs. Lauren V. Ash; Karla Magalhaes Campiao; Caue Pinheiro Teixeira; Nicholas J. Gotelli,,,,,,,,,,,,,,,
+# DOI: 10.1016/j.ijppaw.2024.100924,,,,,,,,,,,,,,,
+# ------------------------------------------------,,,,,,,,,,,,,,,
+# AUTHOR EMAIL: lvash23@gmail.com,,,,,,,,,,,,,,,
+# AUTHOR ADDRESS: University of Vermont; 109 Carrigan Dr; Marsh Life Science; Burlington; VT 05405,,,,,,,,,,,,,,,
+# AUTHOR WEBSITE: lvash.github.io,,,,,,,,,,,,,,,
+# ------------------------------------------------,,,,,,,,,,,,,,,
+# OWNERSHIP: Drs. Lauren Ash and Karla Magalhaes Campiao,,,,,,,,,,,,,,,
+# COLLABORATORS: Caue Pinheiro Teixeira; Dr. Nicholas J. Gotelli,,,,,,,,,,,,,,,
+# FUNDING SOURCES: University of Vermont Fabri Fialho and John Wheeler Awards; Coordination for the Improvement of Higher Education Personnel and the Federal University of Parana; Council for Scientific and Technological Development,,,,,,,,,,,,,,,
+# REPOSITORY: https://github.com/lvash/Brazil-Bullfrog-Coinfection,,,,,,,,,,,,,,,
+# CITATIONS: NA,,,,,,,,,,,,,,,
+# ------------------------------------------------,,,,,,,,,,,,,,,
+# SAMPLING LOCATIONS: We collected; measured; and euthanized 65 specimens of American bullfrogs (Aquarana catesbeiana) sampled from 9 sites across three states of Brazil in the Atlantic Forest biome,,,,,,,,,,,,,,,
+# SAMPLING TIMES: Bullfrogs were collected October 2018 - April 2019,,,,,,,,,,,,,,,
+# VARIABLE DESCRIPTION: 'Locality' and 'State' columns are the Brazilian city/town and states; respectively; where bullfrog collections took place,,,,,,,,,,,,,,,
+# VARIABLE DESCRIPTION: 'Latitude' and 'Longitude correspond to the coordinates of the bullfrog collection locations; 'LatMap' and 'LongMap' correspond to adjusted lat and long coordinates for visualizing pie charts on the map; 'Altitude' was extracted for each location but was not used in this study,,,,,,,,,,,,,,,
+# VARIABLE DESCRIPTION: 'N' is the bullfrog sample size at each location; 'TotAbund' is the total abundance of helminth parasite taxa in the bullfrog,,,,,,,,,,,,,,,
+# VARIABLE DESCRIPTION: The 'Acantho'; 'Nema'; 'Penta'; and 'Platy' columns contain counts of helminth parasites from either Acanthocephala; Nematoda; Platyhelminthes (Trematoda and Cestoda); or Pentastomida (respectively);,,,,,,,,,,,,,,,
+# VARIABLE DESCRIPTION: 'RV_load' corresponds to the average Ranavirus viral load (copies per ng of DNA) of individuals at the site (includes zeroes); 'RV_PosN' corresponds to the number of Ranavirus-positive individuals at the site,,,,,,,,,,,,,,,
+# MISSING DATA: assigned NA,,,,,,,,,,,,,,,
+# ------------------------------------------------,,,,,,,,,,,,,,,
+# DATA TRACK CHANGES LOG (use this section to record any changes to the data set after it is created),,,,,,,,,,,,,,,
+# DATE:              # CHANGES:,,,,,,,,,,,,,,,
+# ------------------------------------------------,,,,,,,,,,,,,,,
+# ----- END OF METADATA -----,,,,,,,,,,,,,,,
+# /////////////////////////////////////,,,,,,,,,,,,,,,
+# ,,,,,,,,,,,,,,,
+# ,,,,,,,,,,,,,,,
+# ----- START OF DATA ----- ,,,,,,,,,,,,,,,
+Locality,State,Latitude,Longitude,LongMap2,LatMap,LongMap,Altitude,N,TotAbund,Acantho,Nema,Penta,Platy,RV_load,RV_PosN
+Blumenau,SC,-27.0291,-49.094,-49.094,-27.0291,-49.094,174m,9,261,115,146,0,0,11403,1
+Chapeco,SC,-27.086442,-52.616923,-52.616923,-27.086442,-52.616923,NA,3,30,13,17,0,0,30,1
+Embu das Artes,SP,-23.6313,-46.8207,-46.8207,-24.6,-46.9,793m,13,853,1,852,0,0,680,10
+Iporanga,SP,-24.5853,-48.5991,-48.5991,-24.5853,-48.5991,110m,4,233,44,185,0,4,0,0
+Piedade,SP,-23.7111,-47.3684,-47.3684,-23.3,-47.55,885m,10,153,1,150,0,2,0,0
+Piraquara,PR,-25.5247,-49.0855,-49.0855,-25.6,-48.6,921m,2,52,8,44,0,0,0,0
+Quatro Barras,PR,-25.3213,-49.0169,-49.65,-25.2,-49.2,851m,10,35,12,15,1,7,17801,4
+Sao Jose dos Pinhais,PR,-25.6997,-49.0798,-49.0798,-25.6997,-50,940m,4,218,24,147,3,44,0,0
+Urubici,SC,-28.0801,-49.5413,-49.5413,-28.0801,-49.5413,1295m,10,295,0,292,0,3,0,0
