@@ -54,7 +54,7 @@ register_google(key="put your own key here")
 brazilFar<-ggmap::get_googlemap(center=c(lon=-58, lat = -15), zoom=4, maptype="satellite") 
 
 # Download country borders
-dsn <- "/Bullfrogs_Brasil/gadm41_BRA_shp"
+dsn <- "Data/gadm41_BRA_shp"
 lay <- "gadm41_BRA_1"
 brazilBorders1 <- read_sf(dsn = dsn, layer = lay)
 
